@@ -6,3 +6,4 @@ for(let listOfHobby of hobbies){
 console.log(hobbies.map((hobby,index)=>{ //Note the parameter 
     return "Hobby No "+index+":"+hobby
 }))
+ 
